@@ -11,10 +11,10 @@ sites:
     url: $BLOG
   - name: BROADCASTCHANNEL
     url: $BROADCASTCHANNEL
-  - name: DC1
-    url: $DC1
   - name: HEIMDALLR
     url: $HEIMDALLR
+  - name: St. Louis
+    url: $ST_LOUIS
   - name: WALINE
     url: $WALINE
 
