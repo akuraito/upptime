@@ -1,7 +1,7 @@
 url: $AVATAR_PROXY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-22T14:27:13.032Z
+status: up
+code: 206
+responseTime: 142
+lastUpdated: 2026-04-22T15:20:08.338Z
 startTime: 2025-12-10T16:22:42.756Z
 generator: Upptime <https://github.com/upptime/upptime>
