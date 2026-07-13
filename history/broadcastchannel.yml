@@ -1,7 +1,7 @@
 url: $BROADCASTCHANNEL
-status: up
-code: 200
-responseTime: 1315
-lastUpdated: 2026-07-12T23:58:19.878Z
+status: down
+code: 500
+responseTime: 437
+lastUpdated: 2026-07-13T20:43:39.351Z
 startTime: 2025-12-10T16:22:44.307Z
 generator: Upptime <https://github.com/upptime/upptime>
