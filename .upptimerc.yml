@@ -11,8 +11,6 @@ sites:
     url: $BLOG
   - name: BROADCASTCHANNEL
     url: $BROADCASTCHANNEL
-  - name: HEIMDALLR
-    url: $HEIMDALLR
   - name: St. Louis
     url: $ST_LOUIS
   - name: WALINE
